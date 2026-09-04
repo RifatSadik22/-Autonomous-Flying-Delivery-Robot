@@ -1,0 +1,15 @@
+# Arduino build/editor files
+*.hex
+*.elf
+*.bin
+*.map
+.vscode/
+.idea/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Python caches (if future analysis tools are added)
+__pycache__/
+*.pyc
