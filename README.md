@@ -1,5 +1,4 @@
-# Autonomous Flying Delivery Robot 🚁
-
+# Autonomous Flying Delivery Robot 
 ### CSE461 — Introduction to Robotics | BRAC University
 
 An academic aerial delivery robot prototype designed to transport lightweight emergency supplies to hard-to-reach areas.
@@ -129,22 +128,6 @@ The project was motivated by emergency delivery scenarios such as floods, disast
 - 📄 [Full project report](documentation/Autonomous-Flying-Delivery-Robot-Report.pdf)
 - 🖼️ [Project poster](documentation/Autonomous-Flying-Delivery-Robot-Poster.png)
 - 📋 [Project status and lessons learned](PROJECT_STATUS.md)
-
-## Team
-
-| ID | Name |
-|---|---|
-| 22201104 | Mahir Muntasir Rafsan |
-| 22201145 | Masudur Sadik Rifat |
-| 22201569 | MD. Rakibul Hasan |
-| 22201340 | Abu Safwan Md. Farhan |
-| 22301537 | Fahim Bin Arif |
-| 22201175 | Suraaiya Alam |
-
-**Course:** CSE461 — Introduction to Robotics  
-**University:** BRAC University  
-**Group:** 07  
-**Section:** 06
 
 ## Academic Project
 
