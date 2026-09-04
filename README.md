@@ -124,9 +124,6 @@ The project was motivated by emergency delivery scenarios such as floods, disast
 - Explore smarter perception/navigation methods.
 
 ## Documentation
-
-- 📄 [Full project report](documentation/Autonomous-Flying-Delivery-Robot-Report.pdf)
-- 🖼️ [Project poster](documentation/Autonomous-Flying-Delivery-Robot-Poster.png)
 - 📋 [Project status and lessons learned](PROJECT_STATUS.md)
 
 ## Academic Project
